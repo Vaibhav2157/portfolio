@@ -8,7 +8,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 function Footer(props) {
   return (
     <footer>
-      <a href="#" className='footer__logo' onClick={props.home}>VIBGYOR</a>
+      <a href="#" className='footer__logo' onClick={props.home}>VAIBHAV</a>
 
       <ul className='permalinks'>
         <li><a href="#" onClick={props.home}>Home</a></li>
@@ -25,7 +25,7 @@ function Footer(props) {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; VIBGYOR learners ,All rights reserved </small>
+        <small>&copy; Vaibhav Desale ,All rights reserved </small>
       </div>
     </footer>
   )

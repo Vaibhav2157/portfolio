@@ -24,24 +24,24 @@ function About(props) {
             <article className="content__card">
               <FaAward className='content__icon'/>
               <h5>Experience</h5>
-              <small>3 years + working</small>
+              <small>-----</small>
             </article>
 
             <article className="content__card">
               <FiUsers className='content__icon' />
               <h5>Clients</h5>
-              <small>200+ worldwide</small>
+              <small>-----</small>
             </article>
 
             <article className="content__card">
               <VscFolderLibrary className='content__icon'/>
               <h5>Projects</h5>
-              <small>80+ completed</small>
+              <small>-----</small>
             </article>
           </div>
 
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, saepe fugiat id commodi nobis quas eligendi facilis, veniam vitae dignissimos debitis, in dicta maiores iure dolore laboriosam? Corrupti, tempora excepturi!
+        Hard working college student with knowledge in programming language and data structure and algorithms. A critical thinker with the ability to build quality web websites and applications with HTML, CSS , Jvascript and Reactjs
         </p>
 
         <a href="#contact" className={`btn btn-primary ${props.activeNav=== '#contact' ?'active' :''}`} onClick ={props.contact}>Let's Talk</a>

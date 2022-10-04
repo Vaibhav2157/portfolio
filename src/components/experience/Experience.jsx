@@ -41,17 +41,17 @@ function Experience() {
                     <BsPatchCheckFill className ='experience__details-icons' />
                     <div>
                         <h4>Python</h4>
-                        <small className='text-light'>Intermidiate</small>
+                        <small className='text-light'>Basic</small>
                     </div>                   
                 </article>
 
-                <article className='experience__details'>
+                {/* <article className='experience__details'>
                     <BsPatchCheckFill className ='experience__details-icons' />
                     <div>
                         <h4>Rubi</h4>
                         <small className='text-light'>Intermidiate</small>
                     </div>                   
-                </article>
+                </article> */}
            </div>
         </div>
 
@@ -86,7 +86,7 @@ function Experience() {
                     <BsPatchCheckFill className ='experience__details-icons' />
                     <div>
                         <h4>React</h4>
-                        <small className='text-light'>Experienced</small>
+                        <small className='text-light'>Intermidiate</small>
                     </div>
                 </article>
 
